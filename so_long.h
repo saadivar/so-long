@@ -100,5 +100,6 @@ int					converttotabs(t_win *win);
 void				posp(t_win *win);
 int					checknl(t_win *win);
 void				tower(t_win *win);
+int				checkrec(t_win *win);
 int					notf(t_win *win);
 #endif
